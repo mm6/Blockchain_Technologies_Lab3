@@ -2,7 +2,7 @@
 ### Carnegie Mellon University                  
 ### Read over this lab for class 5 and take the pre-quiz for class 5.
 ### As an alternative, complete this lab and you may ignore the class 5 pre-quiz. The submission of the lab will count for full credit on the pre-quiz.
-### However, by reading over the lab, and understanding what is going on, you will have sufficient knowledge to take the class 5 pre-quiz without actually working through the steps of the lab.
+### However, by reading over the lab, and understanding what is going on, you will have sufficient knowledge to take the class 5 pre-quiz without actually working through the steps of the lab. In other words, the pre-quiz will be fair and will cover this lab at a high level.
 ### This policy is due to the abbreviated nature of a micro course.
 
 
