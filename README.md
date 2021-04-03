@@ -1,7 +1,7 @@
 ## Spring 2021 Blockchain Technologies Lab 3                             
 ### Carnegie Mellon University                  
-### Read over this lab for class 5 and take the pre-quiz for class 5
-### or, complete this lab and you may ignore the class 5 pre-quiz. The submission of the lab will count for full credit on the pre-quiz.
+### Read over this lab for class 5 and take the pre-quiz for class 5.
+### As an alternative, complete this lab and you may ignore the class 5 pre-quiz. The submission of the lab will count for full credit on the pre-quiz.
 ### However, by reading over the lab, and understanding what is going on, you will have sufficient knowledge to take the class 5 pre-quiz without actually working through the steps of the lab.
 ### This policy is due to the abbreviated nature of a micro course.
 
