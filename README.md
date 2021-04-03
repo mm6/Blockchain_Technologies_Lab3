@@ -1,8 +1,8 @@
 ## Spring 2021 Blockchain Technologies Lab 3                             
 ### Carnegie Mellon University                  
-### Read over this lab for class 5 and take the 10 point pre-quiz for class 5.
-### As an alternative, complete this lab and you may ignore the class 5 pre-quiz. The submission of the lab will count for full credit on the pre-quiz.
-### However, by reading over the lab, and understanding what is going on, you will have sufficient knowledge to take the class 5 pre-quiz without actually working through the steps of the lab. In other words, the pre-quiz will be fair and will cover this lab at a high level. The hands-on experience that you would get by working through the lab is, in this case, truly optional.
+### In this lab, you have two options. 1)  Read over this lab for class 5 and take the 10 point pre-quiz for class 5.
+### 2) As an alternative, complete this lab and you may ignore the class 5 pre-quiz. The submission of the lab will count for full credit on the pre-quiz.
+### Note, by reading over the lab, and understanding what is going on, you will have sufficient knowledge to take the class 5 pre-quiz without actually working through the steps of the lab. In other words, the pre-quiz will be fair and will cover this lab at a high level. The hands-on experience that you would get by working through the lab is, in this case, truly optional.
 ### This policy is due to the abbreviated nature of a micro course. My thinking is that some students would prefer the extra work associated with actually doing the steps of the lab. Others may not.
 
 **Learning Objectives:** The object of Part A is to introduce the student to the MetaMask wallet and crowdsale contracts. The objective of Part B is to introduce the student to debugging smart contracts using the truffle debugger.
